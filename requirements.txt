@@ -1,0 +1,12 @@
+streamlit
+openai
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+extract-msg
+beautifulsoup4
+Pillow
+pytesseract
+pdf2image
+python-dotenv
